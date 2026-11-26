@@ -1,0 +1,17 @@
+# Credenciales y archivos locales
+.env
+.env.*
+!.env.example
+*.secret
+# Maven y Java
+/target/
+*.class
+# IDE / sistema
+/nbproject/private/
+/.idea/
+PROGRAMACIÓN III
+Página 15
+*.iml
+.DS_Store
+# Archivos de ejecución
+*.log
