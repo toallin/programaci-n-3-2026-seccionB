@@ -1,0 +1,10 @@
+com\ejemplo\pedidos\domain\model\Pedido.class
+com\ejemplo\pedidos\infrastructure\adapter\in\rest\PedidoController$Solicitud.class
+com\ejemplo\pedidos\domain\port\PedidoRepositoryPort.class
+com\ejemplo\pedidos\application\RegistrarPedidoUseCase.class
+com\ejemplo\pedidos\infrastructure\adapter\in\rest\PedidoController.class
+com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoPersistenceAdapter.class
+com\ejemplo\pedidos\infrastructure\config\PedidoConfig.class
+com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoEntity.class
+com\ejemplo\pedidos\MsPedidosApplication.class
+com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoJpaRepository.class

@@ -1,0 +1,9 @@
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\application\RegistrarPedidoUseCase.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\domain\model\Pedido.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\domain\port\PedidoRepositoryPort.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\in\rest\PedidoController.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoEntity.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoJpaRepository.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoPersistenceAdapter.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\infrastructure\config\PedidoConfig.java
+C:\Users\jaime\Desktop\gitflores\programaci-n-3-2026-seccionB\ms-pedidos\src\main\java\com\ejemplo\pedidos\MsPedidosApplication.java
