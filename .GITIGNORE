@@ -3,15 +3,16 @@
 .env.*
 !.env.example
 *.secret
+
 # Maven y Java
-/target/
+target/
 *.class
+
 # IDE / sistema
-/nbproject/private/
-/.idea/
-PROGRAMACIÓN III
-Página 15
+nbproject/private/
+.idea/
 *.iml
 .DS_Store
+
 # Archivos de ejecución
 *.log
