@@ -1,9 +1,0 @@
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\application\RegistrarPedidoUseCase.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\domain\model\Pedido.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\domain\port\PedidoRepositoryPort.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\in\rest\PedidoController.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoEntity.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoJpaRepository.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\infrastructure\adapter\out\persistence\PedidoPersistenceAdapter.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\infrastructure\config\PedidoConfig.java
-C:\Users\luiro\OneDrive\Documentos\NetBeansProjects\programaci-n-3-2026-seccionB-main\ms-pedidos-original\src\main\java\com\ejemplo\pedidos\MsPedidosApplication.java

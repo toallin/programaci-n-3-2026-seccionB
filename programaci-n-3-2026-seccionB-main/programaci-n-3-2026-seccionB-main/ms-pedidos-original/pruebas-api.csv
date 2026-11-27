@@ -1,4 +1,0 @@
-﻿"Prueba","Esperado","Obtenido","Resultado","Respuesta"
-"Valida: cantidad 2, precio 10.005","201","201","OK","{""id"":1,""cantidad"":2,""precioUnitario"":10.005,""total"":20.01}"
-"Cantidad 0","400","400","OK",""
-"Precio 0","400","400","OK",""
